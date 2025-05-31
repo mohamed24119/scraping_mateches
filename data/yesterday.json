@@ -1,0 +1,62 @@
+{
+  "date": "2025-05-31T05:30:24.975Z",
+  "matches": [
+    {
+      "id": "102694",
+      "home_name": "الاتحاد",
+      "home_logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2021/9/7/Ittihad2021_9_7_16_53.jpg",
+      "home_score": "3",
+      "away_name": "القادسية",
+      "away_logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2024/8/23/Al_Qadsiah12024_8_23_16_52.jpg",
+      "away_score": "1",
+      "league_name": "كأس خادم الحرمين الشريفين",
+      "league_logo": "https://www.yallakora.com/pictures/Tourlogo/Saudi30-7-2018-15-22-6.png",
+      "time": "21:00",
+      "round": "النهائي",
+      "status": "انتهت",
+      "channel": "SSC SPORT"
+    },
+    {
+      "id": "102988",
+      "home_name": "قاسم باشا",
+      "home_logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2021/2/14/Kasimpasa12021_2_14_3_44.jpg",
+      "home_score": "1",
+      "away_name": "جوزتيبي",
+      "away_logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2021/2/13/Goztepe-12021_2_13_23_51.jpg",
+      "away_score": "2",
+      "league_name": "الدوري التركي",
+      "league_logo": "https://www.yallakora.com/pictures/Tourlogo/Super-Lig113-2-2021-3-39-5.png",
+      "time": "20:00",
+      "round": "الأسبوع الثامن والثلاثون",
+      "status": "انتهت"
+    },
+    {
+      "id": "102989",
+      "home_name": "انطاليا سبور",
+      "home_logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2021/7/15/Antalyaspor2021_7_15_15_33.jpg",
+      "home_score": "0",
+      "away_name": "طرابزون سبور",
+      "away_logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2021/7/15/Trabzonspor2021_7_15_15_32.jpg",
+      "away_score": "2",
+      "league_name": "الدوري التركي",
+      "league_logo": "https://www.yallakora.com/pictures/Tourlogo/Super-Lig113-2-2021-3-39-5.png",
+      "time": "20:00",
+      "round": "الأسبوع الثامن والثلاثون",
+      "status": "انتهت"
+    },
+    {
+      "id": "102992",
+      "home_name": "جالاتا سراي",
+      "home_logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2018/9/10/Galatasaray2018_9_10_13_8.jpg",
+      "home_score": "2",
+      "away_name": "إسطنبول باشاكشهير",
+      "away_logo": "https://media.gemini.media/img/yallakora/IOSTeams//120//2021/7/14/IstanbulBasaksehir2021_7_14_17_28.jpg",
+      "away_score": "0",
+      "league_name": "الدوري التركي",
+      "league_logo": "https://www.yallakora.com/pictures/Tourlogo/Super-Lig113-2-2021-3-39-5.png",
+      "time": "20:00",
+      "round": "الأسبوع الثامن والثلاثون",
+      "status": "انتهت"
+    }
+  ]
+}
