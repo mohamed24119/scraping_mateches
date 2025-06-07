@@ -5,7 +5,12 @@ const path = require('path');
 async function scrape_matches(targetDate = new Date(), outputFileName = 'today.json') {
     const browser = await puppeteer.launch({ 
         headless: true,
-        timeout: 90000
+        timeout: 90000,
+        args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage'
+        ]
     });
     const page = await browser.newPage();
 
