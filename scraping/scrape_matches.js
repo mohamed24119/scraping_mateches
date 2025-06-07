@@ -3,7 +3,10 @@ const fs = require('fs-extra');
 const path = require('path');
 
 async function scrape_matches(targetDate = new Date(), outputFileName = 'today.json') {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch({ 
+        headless: true,
+        timeout: 90000
+    });
     const page = await browser.newPage();
 
     function formatDate(date) {
